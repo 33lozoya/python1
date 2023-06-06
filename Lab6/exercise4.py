@@ -10,4 +10,4 @@ while True:
         yen = euro * yen
         print("The equivalent Yen amount is: ", yen)
     else:
-# line deleted
+# deleted line
