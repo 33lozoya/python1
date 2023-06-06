@@ -4,7 +4,7 @@
 
 
 sentence = input("Please, enter a sentence: ")
-while True:
+# deleted line
     singleCharacter = input("Please, enter a single character: ") 
     if len(singleCharacter) != 1:
         singleCharacter = input("Please, enter a single character: ") 
@@ -14,5 +14,5 @@ while True:
 characterCount = 0
 for character in sentence:
     if character == singleCharacter:
-        characterCount += 1
+# deleted line
 print("The character", singleCharacter, "appears", characterCount, "times in the sentence", sentence, ".")
