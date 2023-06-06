@@ -3,9 +3,9 @@
 
 sentence = input("Please enter a sentence: ")
 
-#line deleted
+# deleted line
 
 for character in sentence:
     if character == " ":
         spaceCount += 1
-# line deleted
+# deleted line
