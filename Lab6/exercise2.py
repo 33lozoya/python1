@@ -3,11 +3,11 @@
 count = 0
 sum = 0.0
 
-# line deleted
+# deleted line
     userFloat = float(input("Please, enter the a decimal number: "))
     sum += userFloat
     count += 1
 print("The sum of the provided decimal numbers is: ", sum)
 
-# line deleted
+# deleted line
 print("The average calculated is: ", average)
