@@ -3,9 +3,9 @@
 
 sentence = input("Please enter a sentence: ")
 
-spaceCount = 0
+#line deleted
 
 for character in sentence:
     if character == " ":
         spaceCount += 1
-print("Spaces:", spaceCount)
+# line deleted
