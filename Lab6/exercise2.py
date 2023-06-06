@@ -3,11 +3,11 @@
 count = 0
 sum = 0.0
 
-while count < 5:
+# line deleted
     userFloat = float(input("Please, enter the a decimal number: "))
     sum += userFloat
     count += 1
 print("The sum of the provided decimal numbers is: ", sum)
 
-average = sum / 5
+# line deleted
 print("The average calculated is: ", average)
