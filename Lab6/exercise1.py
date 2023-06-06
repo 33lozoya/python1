@@ -3,5 +3,5 @@ sum = 0
 num = 50
 while num <= 100:
     sum += num
-    num += 1
+    # line deleted 
 print("The addition of the numbers between 50 and 100 is: ", sum)
