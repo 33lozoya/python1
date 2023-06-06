@@ -7,7 +7,7 @@ terms = (int(input("Please, enter the number of terms in the Fibonacci sequence:
 fibonacciSequence = [1, 1]
 
 for num in range(2, terms):
-    nextTerm = fibonacciSequence[num-1] + fibonacciSequence[num-2]
+# line deleted
     fibonacciSequence.append(nextTerm)
 
 print("The Fibonacci sequence up to", terms, "terms is:")
