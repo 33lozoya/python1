@@ -4,7 +4,7 @@
 odd = 0
 even = 0
 
-# line deleted
+# deleted line
     if number % 2 == 0:
         even += number
     else:
